@@ -6,7 +6,6 @@
 *.tar.gz
 *.render*
 *.ply
-*.png
 
 **/__pycache__/
 
