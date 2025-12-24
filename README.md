@@ -42,10 +42,10 @@ You can run inference directly using the provided script. It processes a directo
 
 #### Run on the example data (replace with the actual path to your model checkpoint)
 
-`python inference.py --data_path examples/Courtroom --ckpt <path/to/your/model.pth>`
+`python inference.py --data_path examples/Courtroom  --save_path <your/output/dir>`
 
 #### Run on your own data
-`python inference.py --data_path <path/to/your/images_dir> --ckpt <path/to/your/model.pth> --save_path <your/output/dir>`
+`python inference.py --data_path <path/to/your/images_dir> --save_path <your/output/dir>`
 
 Arguments:
 
