@@ -1,7 +1,7 @@
 <h1 align="center">MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds</h1>
 
 <p align="center">
-    <a href="#" target="_blank">
+    <a href="https://arxiv.org/abs/2512.21003" target="_blank">
     <img src="https://img.shields.io/badge/Paper-00AEEF?style=plastic&logo=arxiv&logoColor=white" alt="Paper">
     </a>
     <a href="https://maddog241.github.io/mvinverse-page/" target="_blank">
