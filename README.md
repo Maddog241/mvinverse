@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <a href="[PROJECT_PAGE_LINK_HERE]">
+    <a href="https://github.com/Maddog241/mvinverse/">
         <img src="assets/framework.png" width="90%">
     </a>
     <p>
